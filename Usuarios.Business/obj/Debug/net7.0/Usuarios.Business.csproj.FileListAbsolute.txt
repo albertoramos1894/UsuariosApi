@@ -1,0 +1,17 @@
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\bin\Debug\net7.0\Usuarios.Business.deps.json
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\bin\Debug\net7.0\Usuarios.Business.dll
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\bin\Debug\net7.0\Usuarios.Business.pdb
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\obj\Debug\net7.0\Usuarios.Business.csproj.AssemblyReference.cache
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\obj\Debug\net7.0\Usuarios.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\obj\Debug\net7.0\Usuarios.Business.AssemblyInfoInputs.cache
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\obj\Debug\net7.0\Usuarios.Business.AssemblyInfo.cs
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\obj\Debug\net7.0\Usuarios.Business.csproj.CoreCompileInputs.cache
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\obj\Debug\net7.0\Usuarios.Business.dll
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\obj\Debug\net7.0\refint\Usuarios.Business.dll
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\obj\Debug\net7.0\Usuarios.Business.pdb
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\obj\Debug\net7.0\ref\Usuarios.Business.dll
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\bin\Debug\net7.0\Usuarios.DataAccess.dll
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\bin\Debug\net7.0\Usuarios.Models.dll
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\bin\Debug\net7.0\Usuarios.Models.pdb
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\bin\Debug\net7.0\Usuarios.DataAccess.pdb
+D:\Codigos\ApiUsuarios\Usuarios.Api\Usuarios.Business\obj\Debug\net7.0\Usuarios.Business.csproj.CopyComplete
